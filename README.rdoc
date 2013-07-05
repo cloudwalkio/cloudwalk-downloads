@@ -1,3 +1,9 @@
 = DOWNLOADS
 
 Small app that redirects the incoming downloads to CloudWalk's public folder on Dropbox.
+
+= EXAMPLES
+
+https://dl.cloudwalk.io/FILE_NAME
+
+https://dl.cloudwalk.io/FOLDER_NAME/FILE_NAME
