@@ -1,4 +1,6 @@
-source :gemcutter
+source 'https://rubygems.org'
 
-gem 'sinatra', '1.3.2'
-gem 'thin', '1.4.1'
+ruby '1.9.3'
+
+gem 'sinatra', '1.4.3'
+gem 'thin', '1.5.1'
