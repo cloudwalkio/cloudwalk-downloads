@@ -1,1 +1,1 @@
-web: bundle exec ruby downloads.rb -p $PORT
+web: rackup -s puma -p $PORT
