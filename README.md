@@ -1,6 +1,6 @@
 # DOWNLOADS
 
-Small app that redirects incoming downloads to CloudWalk public folder on Dropbox.
+Small app that redirects incoming downloads to Rackspace Cloud Files.
 
 ## EXAMPLES
 
