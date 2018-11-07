@@ -1,0 +1,10 @@
+runtime: go
+api_version: go1
+
+handlers:
+- url: /.*
+  script: _go_app
+  secure: always
+
+env_variables:
+  BASE_URL: "http://59ef8c7b3c1dfd2d7e71-64e65e4fc31f8f1083b5981dbfc9ea4a.r46.cf5.rackcdn.com/"
