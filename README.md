@@ -1,6 +1,6 @@
 # Downloads
 
-Simple app that redirects incoming downloads to Rackspace Cloud Files.
+Simple app that redirects incoming downloads to Rackspace Cloud Files. Enjoy :)
 
 ## Examples
 
